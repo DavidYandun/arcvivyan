@@ -5,11 +5,15 @@
  */
 package arcvivyan.model.manager;
 
+import javax.ejb.Stateless;
+
 /**
  *
- * @author David
+ * @author Anderson
  */
+@Stateless
+public class manager {
 
-public class ManagerFacultad {
-    
+    // Add business logic below. (Right-click in editor and choose
+    // "Insert Code > Add Business Method")
 }
